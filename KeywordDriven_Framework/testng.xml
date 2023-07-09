@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Basic Suite">
+    <test verbose="4" name="Basic Test">
+        <classes>
+            <class name="com.auto.executionengine.Engine"/>
+        </classes>
+    </test>
+</suite>
